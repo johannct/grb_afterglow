@@ -1,0 +1,14 @@
+name: grb_afterglow
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - matplotlib
+  - numpy
+  - numba
+  - Cython
+  - scipy
+  - astropy
+  - pandas
+  - jupyterlab
